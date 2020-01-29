@@ -4,6 +4,8 @@
 **Assignment One Instructions (Bootstrap)**
 
 
+https://lia879.github.io/Bootstrap-Portfolio/
+
 Inside your Bootstrap-Portfolio repo, create index.html, portfolio.html and contact.html.
 
 
